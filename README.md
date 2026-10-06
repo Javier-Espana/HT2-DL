@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este repositorio contiene la resolución teórica, matemática y experimental de la **Hoja de Trabajo #2** sobre arquitecturas Transformer y mecanismos de atención.
 
@@ -15,7 +15,7 @@ El proyecto aborda desde los orígenes de la atención en modelos recurrentes (R
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 HT2-DL/
@@ -44,7 +44,7 @@ HT2-DL/
 
 ---
 
-## 🔬 Experimentos y Hallazgos Clave
+## Experimentos y Hallazgos Clave
 
 ### 1. Verificación de Varianza y Escalamiento $\sqrt{d_k}$
 - Se derivó formalmente que para componentes gaussianos independientes con media 0 y varianza 1, la varianza del producto punto satisface $\mathrm{Var}(q \cdot k) = d_k$.
@@ -77,7 +77,7 @@ Tras escanear las 144 cabezas de BERT, la **Capa 6, Cabeza 10** maximizó el con
 
 ---
 
-## 🚀 Instrucciones de Instalación y Ejecución
+## Instrucciones de Instalación y Ejecución
 
 ### 1. Clonar el repositorio
 ```bash
@@ -114,7 +114,7 @@ pdflatex main.tex
 
 ---
 
-## 📄 Formato del Informe
+## Formato del Informe
 
 El informe de entrega se encuentra disponible en:
 - `docs/Hoja_de_trabajo_2_Javier_Espana_23361.pdf`
