@@ -24,7 +24,7 @@ HT2-DL/
 ├── requirements.txt                # Dependencias reproducibles del entorno Python
 ├── docs/
 │   ├── Hoja_de_trabajo_2_Transformers_Atencion-1.pdf # Enunciado oficial de la tarea
-│   ├── Hoja_de_trabajo_2_Javier_Espana_23361.pdf     # Informe final compilado (PDF, 5 páginas)
+│   ├── Informe.pdf     # Informe final compilado (PDF, 5 páginas)
 │   └── informe/
 │       ├── main.tex               # Documento fuente en LaTeX (formato estándar a 1 columna)
 │       ├── main.pdf               # PDF compilado directamente desde LaTeX
@@ -117,7 +117,7 @@ pdflatex main.tex
 ## Formato del Informe
 
 El informe de entrega se encuentra disponible en:
-- `docs/Hoja_de_trabajo_2_Javier_Espana_23361.pdf`
+- `docs/Informe.pdf`
 
 Cumple con todos los lineamientos de la rúbrica:
 - Documento sobrio a una sola columna en LaTeX clásico.
